@@ -1,0 +1,30 @@
+basic:
+    name: 'Rylan Kuhic'
+    breakpoints:
+        - 640
+        - 1024
+        - 1200
+    pages:
+        - 'https://www.langosh.org/alias-dolores-saepe-consequatur-et-sit-hic.html'
+        - 'https://www.bogan.org/est-sint-atque-perferendis-quos-et'
+    monitoring:
+        days: {  }
+        type: ''
+advanced:
+    mask: ''
+    remove: ''
+    isolate: ''
+    delay: 15
+    scroll: true
+    headers:
+        - { header: '', value: '' }
+    cookies: ''
+    custom_js: ''
+    custom_css: ''
+    mock_content: ''
+    performance:
+        workers_production: 30
+        workers_nonproduction: 10
+        workers_production_delay: 0
+        workers_nonproduction_delay: 0
+    stabilize: true
