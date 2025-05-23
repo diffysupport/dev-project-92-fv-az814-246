@@ -1,12 +1,12 @@
 basic:
-    name: 'Rylan Kuhic'
+    name: 'Salma Kling'
     breakpoints:
         - 640
         - 1024
         - 1200
     pages:
-        - 'https://www.langosh.org/alias-dolores-saepe-consequatur-et-sit-hic.html'
-        - 'https://www.bogan.org/est-sint-atque-perferendis-quos-et'
+        - 'https://www.schroeder.info/voluptates-harum-veritatis-cupiditate-porro-ab.html'
+        - 'https://weber.org/'
     monitoring:
         days: {  }
         type: ''
@@ -22,9 +22,14 @@ advanced:
     custom_js: ''
     custom_css: ''
     mock_content: ''
+    sensitivity: 15
+    night_mode: ''
+    retina_images: ''
     performance:
         workers_production: 30
         workers_nonproduction: 10
         workers_production_delay: 0
         workers_nonproduction_delay: 0
     stabilize: true
+proxy: false
+type: multiple-sites
